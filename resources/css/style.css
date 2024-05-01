@@ -1,0 +1,60 @@
+.autumn-collection {
+    background-image: url('../images/image1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+    height: 400px;
+}
+/* TEXT */
+.autumn {
+    font-family: 'Playfair Display', serif;
+    color: white;
+    text-align: center;
+    font-size: 110px;
+    margin-top: -20px;
+    margin-right: 50px;
+    letter-spacing: 9px;
+
+}
+
+.col-md-2.offset-md-5.mt-4 {
+    margin-top: 200px;
+}
+.collection {
+    color: white;
+    text-align: center;
+    font-size: 110px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: -20px;
+    letter-spacing: 9px;
+}
+.btn-shop-now {
+    background-color: #c5824b;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    /* border-radius: 5px; */
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 1000px;
+}
+
+.btn-shop-now:hover {
+    background-color: #382205;
+    color: white;
+}
+.box {
+    background-color: white;
+
+}
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+    letter-spacing: 5px;
+}
